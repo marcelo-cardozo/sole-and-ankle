@@ -32,6 +32,8 @@ const MainHeader = styled.div`
   display: flex;
   justify-content: center;
   align-items: baseline;
+  gap: 48px;
+  min-width: min-content;
 `;
 
 const Nav = styled.nav`
